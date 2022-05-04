@@ -7,8 +7,8 @@ The course covered both Data Science concepts and the mathematical background ne
 ---
 ## Contents of this repository:
   ### Supervised Learning:
-      1. The Perceptron
-      2. Single Neuron Linear Regression
-      3. Single Neuron Logistic Regression
+  1. The Perceptron
+  2. Single Neuron Linear Regression
+  3. Single Neuron Logistic Regression
       
 Data Set used for analisys: Palmer Penguins
