@@ -4,5 +4,5 @@ It is widely disposable in real-life scenarios since it is non-parametric, meani
 We are given some prior data (also called training data), which classifies coordinates into groups identified by an attribute.
 
 <p align="center">
-    <img src="KNN2.png" width="400">
+    <img src="knn2.png" width="400">
 </p>
