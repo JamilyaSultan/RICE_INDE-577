@@ -6,3 +6,4 @@ We are given some prior data (also called training data), which classifies coord
 <p align="center">
     <img src="knn2.png" width="400">
 </p>
+KNN — makes decision based on the entire training data set (in the best case a subset of them). The training phase is costly as well . Costly in terms of both time and memory. In the worst case,more time might be needed as there is probability of all data points taking point in decision.Since all the training data is stored so more memory is needed. Each of the training data consists of a set of vectors and class label associated with each vector.
