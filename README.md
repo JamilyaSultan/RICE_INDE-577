@@ -11,6 +11,9 @@ The course covered both Data Science concepts and the mathematical background ne
   2. Single Neuron Linear Regression
   3. Single Neuron Logistic Regression
   4. K-nearest neighbors
+  5. Decision Tree
+  6. Ensemble Methods
+
       
 Data Set used for analisys: Palmer Penguins
 The dataset contains data for 344 penguins. There are 3 different species of penguins in this dataset, collected from 3 islands in the Palmer Archipelago, Antarctica. Features include dimentions of bird's bill length, bill width, flipper length, body mass, sex, and the island of habitat.
