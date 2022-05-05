@@ -2,8 +2,6 @@
 
 # Ensemble Methods
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RandyRDavila/Data_Science_and_Machine_Learning_Spring_2022/blob/main/Lecture_9/Lecture_9_1.ipynb)
-
 **Ensemble methods** Ensemble methods is a machine learning technique that combines several base models in order to produce one optimal predictive model. 
 
 When making Decision Trees, there are several factors we must take into consideration: On what features do we make our decisions on? What is the threshold for classifying each question into a yes or no answer? By adding an additional question, we hope to greater define the Yes and No classes.
